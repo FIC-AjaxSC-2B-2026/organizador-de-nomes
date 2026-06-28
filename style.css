@@ -1,0 +1,22 @@
+body {
+    h2 {
+        text-align: left;
+        color: rgb(206, 0, 120);
+        font-size: 24px;
+    }
+    h3 {
+        text-align: left;
+        color: rgb(206, 0, 120);
+        font-size: 20px;
+    }
+button {
+        background-color: rgb(255, 173, 221);
+        color: white;
+        border: none;
+    }
+    ul {
+        list-style-type: none;
+        padding: 0;
+        color: rgb(255, 128, 202);
+    }
+}
